@@ -13,7 +13,7 @@
 - ✉️ Contate-me no email: ericaneres06@gmail.com
 - ✨ Pronomes: ela/dela
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 </p>
 
 <img 
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-### 🎲Estastísticas
+### 📊 Statistics
 <p>
   <img 
     align="left" 
