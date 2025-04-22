@@ -1,4 +1,11 @@
-## Olá! Eu sou a Érica Tawany
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=DA70D6&width=435&lines=%E2%80%A7%E2%82%8A%CB%9A%E2%94%8A+Ol%C3%A1%2C+Me+chamo+%C3%89rica+Tawany!+" alt="Typing SVG">
+  </a>
+</div>
+
+
+
 - 📔 Estudante de Ciência da Computação (UnB)
 - 🎀 Integrante do Meninas.comp
 - 💻 Estudando C/C++, Python e Canva
