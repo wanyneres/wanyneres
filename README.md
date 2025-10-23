@@ -9,7 +9,7 @@
 - 📔 Estudante de Ciência da Computação (UnB)
 - 🎀 Integrante do Meninas.comp
 - 💻 Estudando C/C++, Python e Canva
-- ☁️ Brevemente: Dart, Power BI e Excel
+- ☁️ Brevemente: SQL, Power BI e Excel
 - ✉️ Contate-me no email: ericaneres06@gmail.com
 - ✨ Pronomes: ela/dela
 
