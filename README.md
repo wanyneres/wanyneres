@@ -7,7 +7,7 @@
 
 
 - 📔 Estudante de Ciência da Computação (UnB)
-- 🎀 Integrante do Meninas.comp
+- 🎀 Integrante do Meninas.comp, ACM-W UnB e CJR
 - 💻 Estudando C/C++, Python e Canva
 - ☁️ Brevemente: SQL, Power BI e Excel
 - ✉️ Contate-me no email: ericaneres06@gmail.com
