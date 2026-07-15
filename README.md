@@ -7,6 +7,7 @@
 
 
 - 📔 Estudante de Ciência da Computação (UnB)
+- 📔 Estagiária no Ministério da Fazenda
 - 🎀 Integrante do Meninas.comp, ACM-W UnB e CJR
 - ✉️ Contate-me no email: ericaneres06@gmail.com
 
