@@ -36,10 +36,23 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wanyneres/wanyneres/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/wanyneres/wanyneres/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=wanyneres&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=DA70D6&text_color=ffffff&icon_color=ffffff&border_color=000000&ring_color=DA70D6&custom_title=My%20GitHub%20Statistics"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="400" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=wanyneres&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=DA70D6&text_color=ffffff&icon_color=ffffff&border_color=000000&ring_color=ffffff" 
+  />
+
+</p>
 
 ###
 <picture align="center">
